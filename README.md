@@ -4,4 +4,4 @@ Results can be found in notebook. <br>
 Link to the original dataset: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 <hr>
 <h3>Applications of this EDA</h3>
-The patterns found in the results above as well as the graphs in the notebook provide valuable insights for luxury retail marketers.
+The patterns + visualizations in the notebook provide valuable insights for luxury retail marketers.
